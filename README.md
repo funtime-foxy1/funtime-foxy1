@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @funtime-foxy1
+- 👋 Hi, I’m FunfoxRR
 - 👀 I’m interested in games
+- 🚪 I'm currently working on Gateways!
 
 <!---
 funtime-foxy1/funtime-foxy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
